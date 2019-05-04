@@ -1,2 +1,2 @@
 # netsprinkle
-Connect sprinkler with netatmo gauge
+Connect sprinkler automat jardibric PNR11 with netatmo gauge by raspberry pi
